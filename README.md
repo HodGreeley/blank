@@ -1,11 +1,3 @@
-# This is a blank project with a blank stack. 
+Read about this at https://blog.couchbase.com/codenvy-eclipse-che-docker-couchbase-coding-cloud-devoxx-us/
 
-## The stack includes common utilities for development including tools for adding additional tools to your workspace.
-
-In this workspace you can:
-
-1. Add / remove additional files.
-2. Import additional projects from git or subversion.
-3. Install additional libraries and tools in the terminal.
-4. Author new commands that will executed in the runtime.
-5. Use SSH to connect remote clients.
+This was originally created starting with a blank stack on Codenvy.
